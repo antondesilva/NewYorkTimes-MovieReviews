@@ -13,7 +13,7 @@ class nytMovieReviews {
 	
 	//API key is split into two parts to support movie name entry in middle
 	String apiReq1 = "http://api.nytimes.com/svc/movies/v2/reviews/search.xml?query=";
-	String apiReq2 = "&api-key=597e8cf1ae1030279ef0f00f80dfd3aa%3A2%3A61760067";
+	String apiReq2 = "&api-key=ENTER-YOUR-KEY!"; //****Enter NYT API Key !****//
 	
 	//Movie Data Fields
 	private String movieName;
